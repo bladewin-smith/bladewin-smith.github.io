@@ -26,26 +26,15 @@
             padding: 50px 20px;
         }
 
-        /* 动态全息文字 */
+       /* 动态全息文字 */
         .hologram-text {
             font-size: 3em;
-            font-weight: bold;
-            background: linear-gradient(90deg, 
-                red, orange, yellow, green, cyan, blue, violet);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            color: transparent;
-            text-shadow:
-                0 0 5px red,
-                0 0 10px orange,
-                0 0 15px yellow,
-                0 0 20px green,
-                0 0 25px cyan,
-                0 0 30px blue,
-                0 0 35px violet;
-            animation: glitch 2s infinite; /* 保留你的故障动画 */
-    }
+            text-shadow: 
+                0 0 10px var(--hologram),
+                0 0 20px var(--hologram),
+                0 0 30px var(--hologram);
+            animation: glitch 2s infinite;
+        }
 
 
         /* 霓虹灯边框 */
