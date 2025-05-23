@@ -140,15 +140,15 @@
         
         <!-- 技能进度条 -->
         <div class="skill-bar">
-            <div class="skill" style="--width: 100%;">Python</div>
-            <div class="skill" style="--width: 100%;">AI</div>
-            <div class="skill" style="--width: 100%;">Java</div>
-            <div class="skill" style="--width: 100%;">C++</div>
-            <div class="skill" style="--width: 100%;">STM32</div>
-            <div class="skill" style="--width: 100%;">MSPM0</div>
-            <div class="skill" style="--width: 100%;">ROS1/ROS2</div>
-            <div class="skill" style="--width: 100%;">PCB Layout</div>
-            <div class="skill" style="--width: 100%;">3D Modeling</div>
+            <div class="skill" style="--width: 50%;">Python</div>
+            <div class="skill" style="--width: 50%;">AI</div>
+            <div class="skill" style="--width: 50%;">Java</div>
+            <div class="skill" style="--width: 50%;">C++</div>
+            <div class="skill" style="--width: 50%;">STM32</div>
+            <div class="skill" style="--width: 50%;">MSPM0</div>
+            <div class="skill" style="--width: 50%;">ROS1/ROS2</div>
+            <div class="skill" style="--width: 50%;">PCB Layout</div>
+            <div class="skill" style="--width: 50%;">3D Modeling</div>
         </div>
         <div class="personal-info">
             <p>Education Background:South China Normal University,Electronic Information Science and Technology,Bachelor Degree</p>
